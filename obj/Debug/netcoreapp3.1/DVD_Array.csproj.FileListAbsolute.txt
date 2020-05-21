@@ -1,0 +1,13 @@
+C:\Users\wwstudent\Documents\LeetCode\DVD_Array\bin\Debug\netcoreapp3.1\DVD_Array.exe
+C:\Users\wwstudent\Documents\LeetCode\DVD_Array\bin\Debug\netcoreapp3.1\DVD_Array.deps.json
+C:\Users\wwstudent\Documents\LeetCode\DVD_Array\bin\Debug\netcoreapp3.1\DVD_Array.runtimeconfig.json
+C:\Users\wwstudent\Documents\LeetCode\DVD_Array\bin\Debug\netcoreapp3.1\DVD_Array.runtimeconfig.dev.json
+C:\Users\wwstudent\Documents\LeetCode\DVD_Array\bin\Debug\netcoreapp3.1\DVD_Array.dll
+C:\Users\wwstudent\Documents\LeetCode\DVD_Array\bin\Debug\netcoreapp3.1\DVD_Array.pdb
+C:\Users\wwstudent\Documents\LeetCode\DVD_Array\obj\Debug\netcoreapp3.1\DVD_Array.csprojAssemblyReference.cache
+C:\Users\wwstudent\Documents\LeetCode\DVD_Array\obj\Debug\netcoreapp3.1\DVD_Array.csproj.CoreCompileInputs.cache
+C:\Users\wwstudent\Documents\LeetCode\DVD_Array\obj\Debug\netcoreapp3.1\DVD_Array.AssemblyInfoInputs.cache
+C:\Users\wwstudent\Documents\LeetCode\DVD_Array\obj\Debug\netcoreapp3.1\DVD_Array.AssemblyInfo.cs
+C:\Users\wwstudent\Documents\LeetCode\DVD_Array\obj\Debug\netcoreapp3.1\DVD_Array.dll
+C:\Users\wwstudent\Documents\LeetCode\DVD_Array\obj\Debug\netcoreapp3.1\DVD_Array.pdb
+C:\Users\wwstudent\Documents\LeetCode\DVD_Array\obj\Debug\netcoreapp3.1\DVD_Array.genruntimeconfig.cache
